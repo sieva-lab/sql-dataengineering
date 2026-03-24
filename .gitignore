@@ -7,3 +7,4 @@ data/*.sqlite
 # Negeer VS Code instellingen
 .vscode/
 
+data/chinook_dev.duckdb.wal
